@@ -1,0 +1,96 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HRT6560 Schedule//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:hrt6560-week1-due@schedule
+DTSTAMP:20260610T000000Z
+DTSTART;TZID=America/Chicago:20260619T170000
+DTEND;TZID=America/Chicago:20260619T235959
+SUMMARY:HRT6560 Week 1 DUE - DQ 1 & Quiz
+DESCRIPTION:Topics: Intro to OB (McShane) + What is organizational culture? (Crockett Ch.1). Due by 11:59 PM.
+LOCATION:Moodle
+END:VEVENT
+BEGIN:VEVENT
+UID:hrt6560-week2-due@schedule
+DTSTAMP:20260610T000000Z
+DTSTART;TZID=America/Chicago:20260626T170000
+DTEND;TZID=America/Chicago:20260626T235959
+SUMMARY:HRT6560 Week 2 DUE - DQ 2 & Quiz
+DESCRIPTION:Topics: Individual Differences, Personality and Values (McShane Ch.2) + Why top-performing cultures don't happen by accident (Crockett Ch.2). Due by 11:59 PM.
+LOCATION:Moodle
+END:VEVENT
+BEGIN:VEVENT
+UID:hrt6560-week3-due@schedule
+DTSTAMP:20260610T000000Z
+DTSTART;TZID=America/Chicago:20260703T170000
+DTEND;TZID=America/Chicago:20260703T235959
+SUMMARY:HRT6560 Week 3 DUE - DQ 3 & Quiz
+DESCRIPTION:Topics: Perceiving Ourselves and Others in Organizations (McShane Ch.3) + Organizational structure (Crockett Ch.3). Due by 11:59 PM.
+LOCATION:Moodle
+END:VEVENT
+BEGIN:VEVENT
+UID:hrt6560-week4-due@schedule
+DTSTAMP:20260610T000000Z
+DTSTART;TZID=America/Chicago:20260710T170000
+DTEND;TZID=America/Chicago:20260710T235959
+SUMMARY:HRT6560 Week 4 DUE - DQ 4, Quiz, & Midterm Assignment
+DESCRIPTION:Topics: Workplace Emotions, Attitudes, and Stress + Employee Motivation (McShane Ch.4-5) + Identifying and defining core values (Crockett Ch.4). MIDTERM also due. Due by 11:59 PM.
+LOCATION:Moodle
+END:VEVENT
+BEGIN:VEVENT
+UID:hrt6560-week5-due@schedule
+DTSTAMP:20260610T000000Z
+DTSTART;TZID=America/Chicago:20260717T170000
+DTEND;TZID=America/Chicago:20260717T235959
+SUMMARY:HRT6560 Week 5 DUE - DQ 5 & Quiz
+DESCRIPTION:Topics: Decision Making and Creativity (McShane Ch.6) + Skills for now and the future + Attracting and retaining the right talent (Crockett Ch.5-6). Due by 11:59 PM.
+LOCATION:Moodle
+END:VEVENT
+BEGIN:VEVENT
+UID:hrt6560-week6-due@schedule
+DTSTAMP:20260610T000000Z
+DTSTART;TZID=America/Chicago:20260724T170000
+DTEND;TZID=America/Chicago:20260724T235959
+SUMMARY:HRT6560 Week 6 DUE - DQ 6 & Quiz 6
+DESCRIPTION:Topics: Team Dynamics (McShane Ch.7) + Engagement and motivation (Crockett Ch.7). Due by 11:59 PM.
+LOCATION:Moodle
+END:VEVENT
+BEGIN:VEVENT
+UID:hrt6560-week7-due@schedule
+DTSTAMP:20260610T000000Z
+DTSTART;TZID=America/Chicago:20260731T170000
+DTEND;TZID=America/Chicago:20260731T235959
+SUMMARY:HRT6560 Week 7 DUE - DQ 7 & Quiz 7
+DESCRIPTION:Topics: Communicating in Teams and Organizations + Power and Influence in the Workplace (McShane Ch.8-9) + Total Rewards (Crockett Ch.8). Due by 11:59 PM.
+LOCATION:Moodle
+END:VEVENT
+BEGIN:VEVENT
+UID:hrt6560-week8-due@schedule
+DTSTAMP:20260610T000000Z
+DTSTART;TZID=America/Chicago:20260807T170000
+DTEND;TZID=America/Chicago:20260807T235959
+SUMMARY:HRT6560 Week 8 DUE - DQ 8, Quiz 8, & Final Assignment
+DESCRIPTION:Topics: Conflict and Negotiation in the Workplace (McShane Ch.10). FINAL ASSIGNMENT also due. Due by 11:59 PM.
+LOCATION:Moodle
+END:VEVENT
+BEGIN:VEVENT
+UID:hrt6560-week9-due@schedule
+DTSTAMP:20260610T000000Z
+DTSTART;TZID=America/Chicago:20260814T170000
+DTEND;TZID=America/Chicago:20260814T235959
+SUMMARY:HRT6560 Week 9 DUE - DQ 9, Quiz, & Course Evaluation
+DESCRIPTION:Topics: Leadership in Organizational Settings + Designing Organizational Structures (McShane Ch.11-12) + Diversity, inclusion, and belonging (Crockett Ch.9). Course evaluation also due. Due by 11:59 PM.
+LOCATION:Moodle
+END:VEVENT
+BEGIN:VEVENT
+UID:hrt6560-week10-due@schedule
+DTSTAMP:20260610T000000Z
+DTSTART;TZID=America/Chicago:20260820T170000
+DTEND;TZID=America/Chicago:20260820T235959
+SUMMARY:HRT6560 Week 10 DUE - DQ 10 & Quiz (Session Ends)
+DESCRIPTION:Topics: Organizational Culture + Organizational Change (McShane Ch.13-14) + Moving to action (Crockett Ch.10). SESSION ENDS Thursday Aug 20. Due by 11:59 PM.
+LOCATION:Moodle
+END:VEVENT
+END:VCALENDAR
